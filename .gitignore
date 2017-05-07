@@ -1,3 +1,4 @@
+#列出要忽略的文件模式
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
