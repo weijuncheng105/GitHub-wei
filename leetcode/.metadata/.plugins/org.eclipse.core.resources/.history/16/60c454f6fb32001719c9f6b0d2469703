@@ -96,9 +96,7 @@ public class WordDictionary {
 	     wordDictionary.addWord("dad");
 	     wordDictionary.addWord("add");
 	     boolean res = wordDictionary.search(".ad");
-	     boolean res1 = wordDictionary.search(".ag");
 	     System.out.println(res);
-	     System.out.println(res1);
 	}
 
 }
