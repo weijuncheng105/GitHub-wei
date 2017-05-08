@@ -1,0 +1,9 @@
+//相当于加了一个约束条件，第一家和最后一家不能同时偷;
+public class Solution {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
