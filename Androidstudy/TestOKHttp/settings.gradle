@@ -1,0 +1,7 @@
+include ':app'
+/*Gradle为每个build.gradle都会创建一个相应的module领域对象，在编写Gradle脚本时，我们实际上是在操作诸如module这样的Gradle领域对象。在多module的项目中，我们会操作多个module领域对象。Gradle提供了强大的多module构建支持
+要创建多module的Gradle项目，我们首先需要在根（Root）Project中加入名为settings.gradle的配置文件，该文件应该包含各个子module（其实就是一个子project）的名称。如setting.gradle中：
+
+如 include 'library', 'demo'
+
+* */
